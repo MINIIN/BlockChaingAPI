@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockChaingAPI", "BlockChaingAPI\BlockChaingAPI.csproj", "{FD794236-F0B0-42E2-82E0-E155382E4BC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD794236-F0B0-42E2-82E0-E155382E4BC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD794236-F0B0-42E2-82E0-E155382E4BC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD794236-F0B0-42E2-82E0-E155382E4BC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD794236-F0B0-42E2-82E0-E155382E4BC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F91D5A1A-9599-44FA-BAD0-52E1636B86D2}
+	EndGlobalSection
+EndGlobal
